@@ -2,3 +2,5 @@ c:\users\ruiking\documents\visual studio 2010\Projects\form1\ConsoleApplication1
 c:\users\ruiking\documents\visual studio 2010\Projects\form1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 c:\users\ruiking\documents\visual studio 2010\Projects\form1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 c:\users\ruiking\documents\visual studio 2010\Projects\form1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\gitfile\msgTest\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\gitfile\msgTest\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
