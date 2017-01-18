@@ -1,0 +1,14 @@
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\bin\Debug\TestProject1.dll
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\bin\Debug\TestProject1.pdb
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\bin\Debug\CUnitTest1.exe
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\bin\Debug\CUnitTest1.pdb
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\obj\Debug\TestProject1.dll
+c:\users\ruiking\documents\visual studio 2010\Projects\CUnitTest1\TestProject1\obj\Debug\TestProject1.pdb
+C:\gitfile\msgTest\CUnitTest1\TestProject1\bin\Debug\TestProject1.dll
+C:\gitfile\msgTest\CUnitTest1\TestProject1\bin\Debug\TestProject1.pdb
+C:\gitfile\msgTest\CUnitTest1\TestProject1\bin\Debug\CUnitTest1.exe
+C:\gitfile\msgTest\CUnitTest1\TestProject1\bin\Debug\CUnitTest1.pdb
+C:\gitfile\msgTest\CUnitTest1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\gitfile\msgTest\CUnitTest1\TestProject1\obj\Debug\TestProject1.dll
+C:\gitfile\msgTest\CUnitTest1\TestProject1\obj\Debug\TestProject1.pdb
