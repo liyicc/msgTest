@@ -24,8 +24,8 @@ namespace TestNunit
         public void TestSub()
         {
             Class1 cal = new Class1();
-            int expected = 9;
-            int actual = cal.Sub(9, 0);
+            int expected = 2;
+            int actual = cal.Sub(9, 7);
             Assert.AreEqual(expected, actual);
         }
 
