@@ -42,7 +42,7 @@ namespace TestNunit
         public void TestDiv()
         {
             Class1 cal = new Class1();
-            int expected = 7;
+            int expected = 5;
             int actual = cal.Div(25, 5);
             Assert.AreEqual(expected, actual);
         }
