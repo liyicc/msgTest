@@ -33,7 +33,7 @@ namespace TestNunit
         public void TestMul()
         {
             Class1 cal = new Class1();
-            int expected = 24;
+            int expected = 27;
             int actual = cal.Mul(3, 8);
             Assert.AreEqual(expected, actual);
         }
@@ -42,7 +42,7 @@ namespace TestNunit
         public void TestDiv()
         {
             Class1 cal = new Class1();
-            int expected = 4;
+            int expected = 2;
             int actual = cal.Div(15, 5);
             Assert.AreEqual(expected, actual);
         }
