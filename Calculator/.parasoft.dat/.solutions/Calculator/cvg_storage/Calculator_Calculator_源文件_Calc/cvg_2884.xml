@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CvgData file="Calculator/Calculator/源文件/Calculator.cpp" type="LC">
+  <VersionInfos>
+    <StorageInfo ownerId="LC" resultId="LineCoverageStaticInfo" ver="2" />
+    <StorageInfo ownerId="LC" resultId="IDynamicCoverageInfo" ver="2" />
+  </VersionInfos>
+  <CtxList ids="4399214136653256875 -1181137742913110265 -7017635466516379456 -1181137742913111104 -7017635466516379738 -1106601914281813957 -1106601914281813024 -1106601914281815099 -1181137742913109311 -1106601914281814051 -1106601914281814911 -7017635466516401597 4399214136653279688 -7017635466516378711 -7017635466516379644 -7017635466516380483 2526143368057334513 -7017635466516380671 4640277833613688002 -1106601914281813212 -7017635466516380577 -7017635466516379550 2526143368057334419 -1181137742913111198 -1106601914281813118 -837260744468554610 -5358290358058945942 -1806185595407388790 4399214136653257735 2526143368057335352 4399214136653278943 4399214136653257829 -1181137742913111010 2526143368057334607 4399214136653278755 -1181137742913110171 -1181137742913111943 -1181137742913110077 -1181137742913112037 -6355938221694342008 2526143368057336306 2526143368057336400 4399214136653279782 -1106601914281815005 2526143368057336494 -1106601914281814166 2526143368057335446 4399214136653257641 4399214136653278849 2526143368057335540" uniqueId2MainId="CPP://-5590559297001868899 CPP://4116743067446993217 CPP://197807572775617198 CPP://4116743067446993155 CPP://197807572775617105 CPP://4116743345739738881 CPP://4116743345739738974 CPP://4116743345739738726 CPP://4116743067446993310 CPP://4116743345739738850 CPP://4116743345739738788 CPP://197807572775616981 CPP://-5590559297001869116 CPP://197807572775617229 CPP://197807572775617136 CPP://197807572775617074 CPP://-6026167228495876365 CPP://197807572775617012 CPP://7077724327422267011 CPP://4116743345739738912 CPP://197807572775617043 CPP://197807572775617167 CPP://-6026167228495876334 CPP://4116743067446993124 CPP://4116743345739738943 CPP://2049656553428820819 CPP://-6426121548891963474 CPP://-5590551627725381982 CPP://-5590559297001868961 CPP://-6026167228495876427 CPP://-5590559297001869085 CPP://-5590559297001868992 CPP://4116743067446993186 CPP://-6026167228495876396 CPP://-5590559297001869023 CPP://4116743067446993248 CPP://4116743067446993093 CPP://4116743067446993279 CPP://4116743067446993062 CPP://-5590543000650266398 CPP://-6026167228495876520 CPP://-6026167228495876551 CPP://-5590559297001869147 CPP://4116743345739738757 CPP://-6026167228495876582 CPP://4116743345739738819 CPP://-6026167228495876458 CPP://-5590559297001868930 CPP://-5590559297001869054 CPP://-6026167228495876489" />
+  <Stats>
+    <ElemStats elem="Calculator/Calculator/源文件/Calculator.cpp;9;wmain" total="1" num="1" />
+    <ElemStats elem="Calculator/Calculator/源文件/Calculator.cpp;17;_ZN17CalculatorProject10Calculator3addEii" total="1" num="1" />
+    <ElemStats elem="Calculator/Calculator/源文件/Calculator.cpp;23;_ZN17CalculatorProject10Calculator5minusEii" total="1" num="1" />
+    <ElemStats elem="Calculator/Calculator/源文件/Calculator.cpp;33;_ZN17CalculatorProject10Calculator6divideEii" total="1" num="1" />
+    <ElemStats elem="Calculator/Calculator/源文件/Calculator.cpp;28;_ZN17CalculatorProject10Calculator8multiplyEii" total="1" num="1" />
+  </Stats>
+  <ResultInfo cvgType="LC">
+    <DynCvg elem="Calculator/Calculator/源文件/Calculator.cpp;33;_ZN17CalculatorProject10Calculator6divideEii">
+      <CtxCvg ctx="4399214136653256875" ids="35" />
+      <CtxCvg ctx="4399214136653278755" ids="35" />
+      <CtxCvg ctx="4399214136653279782" ids="35" />
+      <CtxCvg ctx="4399214136653257735" ids="35" />
+      <CtxCvg ctx="4399214136653257641" ids="35" />
+      <CtxCvg ctx="4399214136653278943" ids="35" />
+      <CtxCvg ctx="4640277833613688002" ids="35" />
+      <CtxCvg ctx="4399214136653279688" ids="35" />
+      <CtxCvg ctx="4399214136653257829" ids="35" />
+      <CtxCvg ctx="4399214136653278849" ids="35" />
+    </DynCvg>
+    <DynCvg elem="Calculator/Calculator/源文件/Calculator.cpp;23;_ZN17CalculatorProject10Calculator5minusEii">
+      <CtxCvg ctx="-1181137742913112037" ids="25" />
+      <CtxCvg ctx="-1181137742913111010" ids="25" />
+      <CtxCvg ctx="-1181137742913110265" ids="25" />
+      <CtxCvg ctx="-1806185595407388790" ids="25" />
+      <CtxCvg ctx="-1181137742913109311" ids="25" />
+      <CtxCvg ctx="-1181137742913111104" ids="25" />
+      <CtxCvg ctx="-1181137742913110171" ids="25" />
+      <CtxCvg ctx="-1181137742913111943" ids="25" />
+      <CtxCvg ctx="-1181137742913111198" ids="25" />
+      <CtxCvg ctx="-1181137742913110077" ids="25" />
+    </DynCvg>
+    <DynCvg elem="Calculator/Calculator/源文件/Calculator.cpp;28;_ZN17CalculatorProject10Calculator8multiplyEii">
+      <CtxCvg ctx="-5358290358058945942" ids="30" />
+      <CtxCvg ctx="2526143368057334607" ids="30" />
+      <CtxCvg ctx="2526143368057336306" ids="30" />
+      <CtxCvg ctx="2526143368057336400" ids="30" />
+      <CtxCvg ctx="2526143368057334513" ids="30" />
+      <CtxCvg ctx="2526143368057335446" ids="30" />
+      <CtxCvg ctx="2526143368057334419" ids="30" />
+      <CtxCvg ctx="2526143368057335352" ids="30" />
+      <CtxCvg ctx="2526143368057336494" ids="30" />
+      <CtxCvg ctx="2526143368057335540" ids="30" />
+    </DynCvg>
+    <DynCvg elem="Calculator/Calculator/源文件/Calculator.cpp;17;_ZN17CalculatorProject10Calculator3addEii">
+      <CtxCvg ctx="-7017635466516380483" ids="19" />
+      <CtxCvg ctx="-7017635466516379456" ids="19" />
+      <CtxCvg ctx="-7017635466516379738" ids="19" />
+      <CtxCvg ctx="-7017635466516401597" ids="19" />
+      <CtxCvg ctx="-7017635466516380671" ids="19" />
+      <CtxCvg ctx="-7017635466516380577" ids="19" />
+      <CtxCvg ctx="-7017635466516378711" ids="19" />
+      <CtxCvg ctx="-7017635466516379550" ids="19" />
+      <CtxCvg ctx="-837260744468554610" ids="19" />
+      <CtxCvg ctx="-7017635466516379644" ids="19" />
+    </DynCvg>
+    <DynCvg elem="Calculator/Calculator/源文件/Calculator.cpp;9;wmain">
+      <CtxCvg ctx="-1106601914281813024" ids="11" />
+      <CtxCvg ctx="-6355938221694342008" ids="11" />
+      <CtxCvg ctx="-1106601914281814166" ids="11" />
+      <CtxCvg ctx="-1106601914281815099" ids="11" />
+      <CtxCvg ctx="-1106601914281814051" ids="11" />
+      <CtxCvg ctx="-1106601914281814911" ids="11" />
+      <CtxCvg ctx="-1106601914281813957" ids="11" />
+      <CtxCvg ctx="-1106601914281815005" ids="11" />
+      <CtxCvg ctx="-1106601914281813118" ids="11" />
+      <CtxCvg ctx="-1106601914281813212" ids="11" />
+    </DynCvg>
+  </ResultInfo>
+  <ResultInfo cvgType="LC" stat="true">
+    <StatCvg elem="Calculator/Calculator/源文件/Calculator.cpp;17;_ZN17CalculatorProject10Calculator3addEii" file="Calculator/Calculator/源文件/Calculator.cpp" show="true" lns="19" />
+    <StatCvg elem="Calculator/Calculator/源文件/Calculator.cpp;9;wmain" file="Calculator/Calculator/源文件/Calculator.cpp" show="true" lns="11" />
+    <StatCvg elem="Calculator/Calculator/源文件/Calculator.cpp;23;_ZN17CalculatorProject10Calculator5minusEii" file="Calculator/Calculator/源文件/Calculator.cpp" show="true" lns="25" />
+    <StatCvg elem="Calculator/Calculator/源文件/Calculator.cpp;28;_ZN17CalculatorProject10Calculator8multiplyEii" file="Calculator/Calculator/源文件/Calculator.cpp" show="true" lns="30" />
+    <StatCvg elem="Calculator/Calculator/源文件/Calculator.cpp;33;_ZN17CalculatorProject10Calculator6divideEii" file="Calculator/Calculator/源文件/Calculator.cpp" show="true" lns="35" />
+  </ResultInfo>
+</CvgData>

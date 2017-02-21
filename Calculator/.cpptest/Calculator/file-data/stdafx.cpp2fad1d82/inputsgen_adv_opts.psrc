@@ -1,0 +1,8 @@
+xharness.routineManager symbol_file=* command=setProperty property=ignored value=true
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.cpp" command=setProperty property=ignored value=false
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.h" command=setProperty property=ignored value=false
+xharness.variableManager symbol_file=* command=setProperty property=ignored value=true
+xharness.variableManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.cpp" command=setProperty property=ignored value=false
+xharness.variableManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\targetver.h" command=setProperty property=ignored value=false
+xharness.variableManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.h" command=setProperty property=ignored value=false
+edg.multibyte_chars_in_source_enabled TRUE

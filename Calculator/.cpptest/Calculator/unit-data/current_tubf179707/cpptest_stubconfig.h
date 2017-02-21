@@ -1,0 +1,4 @@
+
+#define CPPTEST_STUB__ZNSt6_MutexC9ESt14_Uninitialized orig
+#define CPPTEST_UNDEFINED__ZNSt6_MutexC9ESt14_Uninitialized 1
+

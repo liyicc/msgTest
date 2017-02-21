@@ -1,0 +1,20 @@
+xharness.routineManager "symbol_file=C:\Program Files\Parasoft\C++test for Visual Studio\9.5\engine\runtime\include/*" command=setProperty property=ignored value=true
+edg.errorThreshold 5
+edgtk.preprocessorExecutable cl.exe
+xharness.symbolsFile C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\Calculator.cpp1bc1e134\tested\harness_symbols.xml
+xharness.unwantedDeclHeaderInAutoStubConfig Calculator.cpp
+xharness.coverageMapFile C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\Calculator.cpp1bc1e134\tested\new_coverage.map
+xharness.preIncludeHeader C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\unit-data\current_tubf179707\cpptest_stubconfig.h
+xharness.useBlockCoverage off
+xharness.useMcDcCoverage off
+xharness.usePathCoverage off
+xharness.routineManager symbol_file=* command=setProperty property=canCreateStubsIn value=off
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\Calculator.cpp" command=setProperty property=canCreateStubsIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\targetver.h" command=setProperty property=canCreateStubsIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.h" command=setProperty property=canCreateStubsIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\Calculator.h" command=setProperty property=canCreateStubsIn value=on
+xharness.routineManager symbol_file=* command=setProperty property=canAddCoverageIn value=off
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\Calculator.cpp" command=setProperty property=canAddCoverageIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\targetver.h" command=setProperty property=canAddCoverageIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\stdafx.h" command=setProperty property=canAddCoverageIn value=on
+xharness.routineManager "symbol_file=C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\Calculator\Calculator.h" command=setProperty property=canAddCoverageIn value=on

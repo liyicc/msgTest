@@ -1,0 +1,6 @@
+#Properties of inputs generation process
+#Mon Feb 20 16:13:24 GMT+08:00 2017
+contextFileTimestamp=1487575746085
+incFilesHash=1273233668
+advOptsFileHash=-110836477
+cmdLine="C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\bin\\xharness.exe" --native-options-start -I"C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\runtime\\include" /ZI /W3 /Od /EHsc /RTC1 /MDd /fp\:precise /Gd /GS /Oy- /Gm /DWIN32 /D_DEBUG /D_CONSOLE /D_UNICODE /DUNICODE /Zc\:wchar_t /Zc\:forScope /WX- /nologo -DPARASOFT_CPPTEST -I. --native-options-end "--input\=C\:\\Users\\ruiking\\Documents\\Visual Studio 2010\\Projects\\Calculator\\Calculator\\Calculator.cpp" "--compiler-cfg-file\=C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\etc\\compilers\\vc_10_0\\cpp.psrc" --preprocessorExecutable\=cl.exe "--psrc\=C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\etc\\xharness_features_testcases.psrc" --errorThreshold\=5 --native-options-start -w --native-options-end "--testcase-inputs-dir\=C\:\\Users\\ruiking\\Documents\\Visual Studio 2010\\Projects\\Calculator\\.cpptest\\Calculator\\file-data\\Calculator.cpp1bc1e134\\TestInputs" "--psrc\=C\:\\Users\\ruiking\\Documents\\Visual Studio 2010\\Projects\\Calculator\\.cpptest\\Calculator\\file-data\\Calculator.cpp1bc1e134\\inputsgen_adv_opts.psrc"
