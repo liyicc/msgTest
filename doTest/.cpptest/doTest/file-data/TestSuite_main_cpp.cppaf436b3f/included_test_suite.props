@@ -1,0 +1,12 @@
+#Test suite file data.
+#Tue Feb 21 11:44:40 GMT+08:00 2017
+timestamp=1487648657285
+test_suite_context=doTest/doTest/\u6E90\u6587\u4EF6/main.cpp
+test_case_contexts=int CTest\:\:add(int, int)@@TCC@@void main(void)@@TCC@@
+test_suites=TestSuite_main_cpp_50199427,test_add_1^1'@@TCS@@test_add_10^1'@@TCS@@test_add_2^1'@@TCS@@test_add_3^1'@@TCS@@test_add_4^1'@@TCS@@test_add_5^1'@@TCS@@test_add_6^1'@@TCS@@test_add_7^1'@@TCS@@test_add_8^1'@@TCS@@test_add_9^1'@@TCS@@test_main_1^1'@@TCS@@@@TSS@@
+defined=true
+test_suite_included_by=doTest/doTest/\u6E90\u6587\u4EF6/main.cpp
+registered=true
+test_suite_names=TestSuite_main_cpp_50199427@@TSN@@
+fileVersion=3
+test_cases_properties=TestSuite_main_cpp_50199427,test_add_1;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_10;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_2;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_3;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_4;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_5;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_6;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_7;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_8;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_add_9;GRS\=@@PPS@@TCC\=int CTest\:\:add(int, int)@@PPS@@TCD\=@@PPS@@@@TCS@@test_main_1;GRS\=@@PPS@@TCC\=void main(void)@@PPS@@TCD\=@@PPS@@@@TCS@@@@TSS@@

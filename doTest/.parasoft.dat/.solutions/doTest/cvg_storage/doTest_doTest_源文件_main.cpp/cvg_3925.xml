@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CvgData file="doTest/doTest/源文件/main.cpp" type="LC">
+  <VersionInfos>
+    <StorageInfo ownerId="LC" resultId="LineCoverageStaticInfo" ver="2" />
+    <StorageInfo ownerId="LC" resultId="IDynamicCoverageInfo" ver="2" />
+  </VersionInfos>
+  <CtxList ids="-7087706349302807814 -5531613848146925324 -5531613848146925230 -5531613848146923552 -5531613848146924391 -5531613848146924297 -5531613848146926257 -5531613848146925418 -5531613848146924485 -5531613848146925512 -7069670070770294924" uniqueId2MainId="CPP://8217267097007600094 CPP://-448362685629973563 CPP://-448362685629973594 CPP://-448362685629973718 CPP://-448362685629973656 CPP://-448362685629973687 CPP://-448362685629973470 CPP://-448362685629973532 CPP://-448362685629973625 CPP://-448362685629973501 CPP://8217267107576865520" />
+  <Stats>
+    <ElemStats elem="doTest/doTest/源文件/main.cpp;12;main" total="5" num="5" />
+    <ElemStats elem="doTest/doTest/源文件/main.cpp;6;_ZN5CTest3addEii" total="1" num="1" />
+  </Stats>
+  <ResultInfo cvgType="LC">
+    <DynCvg elem="doTest/doTest/源文件/main.cpp;12;main">
+      <CtxCvg ctx="-7069670070770294924" ids="21 18 25 16 14" cnts="1 2 1 2 1" />
+    </DynCvg>
+    <DynCvg elem="doTest/doTest/源文件/main.cpp;6;_ZN5CTest3addEii">
+      <CtxCvg ctx="-7087706349302807814" ids="8" />
+      <CtxCvg ctx="-5531613848146925230" ids="8" />
+      <CtxCvg ctx="-5531613848146925324" ids="8" />
+      <CtxCvg ctx="-5531613848146924391" ids="8" />
+      <CtxCvg ctx="-5531613848146923552" ids="8" />
+      <CtxCvg ctx="-5531613848146926257" ids="8" />
+      <CtxCvg ctx="-5531613848146924297" ids="8" />
+      <CtxCvg ctx="-5531613848146925418" ids="8" />
+      <CtxCvg ctx="-7069670070770294924" ids="8" />
+      <CtxCvg ctx="-5531613848146925512" ids="8" />
+      <CtxCvg ctx="-5531613848146924485" ids="8" />
+    </DynCvg>
+  </ResultInfo>
+  <ResultInfo cvgType="LC" stat="true">
+    <StatCvg elem="doTest/doTest/源文件/main.cpp;12;main" file="doTest/doTest/源文件/main.cpp" show="true" lns="16 18 21 25 14" />
+    <StatCvg elem="doTest/doTest/源文件/main.cpp;6;_ZN5CTest3addEii" file="doTest/doTest/源文件/main.cpp" show="true" lns="8" />
+  </ResultInfo>
+</CvgData>

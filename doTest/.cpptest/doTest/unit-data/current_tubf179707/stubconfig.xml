@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><SymbolsConfig formatVersion="1.0" toolName="C++Test">
+<Function id="system" type="orig"/>
+<Function id="_ZSt4endlRSo" type="orig"/>
+<Function id="_ZSt15make_error_codeNSt7io_errc7io_errcE" type="orig"/>
+<Function id="_ZN5CTest3addEii" type="orig"/>
+</SymbolsConfig>

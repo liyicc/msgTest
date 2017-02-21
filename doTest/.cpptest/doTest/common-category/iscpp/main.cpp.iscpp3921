@@ -1,0 +1,6 @@
+fileName=C:\gitfile\msgTest\doTest\doTest\main.cpp
+isCpp=
+compilerOpts=-I"C:\Program Files\Parasoft\C++test for Visual Studio\9.5\engine\runtime\include" /Zi /W3 /Od /EHa /MDd /fp:precise /GS /Oy- /DWIN32 /D_DEBUG /D_UNICODE /DUNICODE /Zc:wchar_t /Zc:forScope /WX- /nologo -DPARASOFT_CPPTEST -I.
+compilerId=vc_10_0
+workingDir=C:\gitfile\msgTest\doTest\doTest\
+advancedOptionsHash=1237154733

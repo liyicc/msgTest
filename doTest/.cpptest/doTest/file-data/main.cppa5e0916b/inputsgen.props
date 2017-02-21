@@ -1,0 +1,6 @@
+#Properties of inputs generation process
+#Tue Feb 21 11:44:15 GMT+08:00 2017
+contextFileTimestamp=1487647975585
+incFilesHash=-798144856
+advOptsFileHash=1120938497
+cmdLine="C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\bin\\xharness.exe" --native-options-start -I"C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\runtime\\include" /Zi /W3 /Od /EHa /MDd /fp\:precise /GS /Oy- /DWIN32 /D_DEBUG /D_UNICODE /DUNICODE /Zc\:wchar_t /Zc\:forScope /WX- /nologo -DPARASOFT_CPPTEST -I. --native-options-end "--input\=C\:\\gitfile\\msgTest\\doTest\\doTest\\main.cpp" "--compiler-cfg-file\=C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\etc\\compilers\\vc_10_0\\cpp.psrc" --preprocessorExecutable\=cl.exe "--psrc\=C\:\\Program Files\\Parasoft\\C++test for Visual Studio\\9.5\\engine\\etc\\xharness_features_testcases.psrc" --errorThreshold\=5 --native-options-start -w --native-options-end "--testcase-inputs-dir\=C\:\\gitfile\\msgTest\\doTest\\.cpptest\\doTest\\file-data\\main.cppa5e0916b\\TestInputs" "--psrc\=C\:\\gitfile\\msgTest\\doTest\\.cpptest\\doTest\\file-data\\main.cppa5e0916b\\inputsgen_adv_opts.psrc"

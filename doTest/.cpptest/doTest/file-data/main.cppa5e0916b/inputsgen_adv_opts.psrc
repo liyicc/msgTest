@@ -1,0 +1,5 @@
+xharness.routineManager symbol_file=* command=setProperty property=ignored value=true
+xharness.routineManager "symbol_file=C:\gitfile\msgTest\doTest\doTest\main.cpp" command=setProperty property=ignored value=false
+xharness.variableManager symbol_file=* command=setProperty property=ignored value=true
+xharness.variableManager "symbol_file=C:\gitfile\msgTest\doTest\doTest\main.cpp" command=setProperty property=ignored value=false
+edg.multibyte_chars_in_source_enabled TRUE

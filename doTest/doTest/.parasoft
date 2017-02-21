@@ -1,0 +1,36 @@
+#Tue Feb 21 11:44:40 GMT+08:00 2017
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=vc_10_0
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=vs71_extractor_id
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+doTest/doTest//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+doTest/doTest/\u6E90\u6587\u4EF6/main.cpp//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+doTest/doTest/\u6E90\u6587\u4EF6/main.cpp//com.parasoft.xtest.checkers.api.cpp.options.file.specific.compiler.opts=false
+doTest/doTest/\u6E90\u6587\u4EF6/main.cpp//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+doTest/doTest/\u6E90\u6587\u4EF6/main.cpp//com.parasoft.xtest.execution.api.cpp.options.instrument.file=true
+project.path.c2c28573-03a9-4eff-ac33-671beca44865=doTest/doTest
