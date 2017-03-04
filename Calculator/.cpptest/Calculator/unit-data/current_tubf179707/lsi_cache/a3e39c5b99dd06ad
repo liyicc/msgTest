@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<LibrarySymbols tool="C++Test" formatVersion="1.0" source="C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\Calculator.cpp1bc1e134\Calculator.obj">
-    <Symbol name="_wmain" remangled="ZFwmainX"/>
-    <Symbol name="?add@Calculator@CalculatorProject@@QAEHHH@Z" remangled="bBCalculatorProjectKCalculatorZDadd0FiiiZ"/>
-    <Symbol name="?minus@Calculator@CalculatorProject@@QAEHHH@Z" remangled="bBCalculatorProjectKCalculatorZFminus0FiiiZ"/>
-    <Symbol name="?multiply@Calculator@CalculatorProject@@QAEHHH@Z" remangled="bBCalculatorProjectKCalculatorZImultiply0FiiiZ"/>
-    <Symbol name="?divide@Calculator@CalculatorProject@@QAEHHH@Z" remangled="bBCalculatorProjectKCalculatorZGdivide0FiiiZ"/>
-</LibrarySymbols>

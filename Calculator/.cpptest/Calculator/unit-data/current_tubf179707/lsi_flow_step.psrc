@@ -1,9 +1,0 @@
-xharness.routineManager "symbol_file=C:\Program Files\Parasoft\C++test for Visual Studio\9.5\engine\runtime\include/*" command=setProperty property=ignored value=true
-libdetector.ldvLinkerExecutable link.exe
-symmatcher.storeConfig C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\unit-data\current_tubf179707\lsi_result
-lsi.symbolsFile C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\Calculator.cpp1bc1e134\tested\harness_symbols.xml
-lsi.symbolsFile C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\stdafx.cpp2fad1d82\tested\harness_symbols.xml
-lsi.symbolsFile C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\file-data\safe_stubs_win32.c2b04ac3a\harness_symbols.xml
-libdetector.doDetectLibraries on
-symmatcher.doAssumeAllInLibraries off
-lsi.cacheDir C:\Users\ruiking\Documents\Visual Studio 2010\Projects\Calculator\.cpptest\Calculator\unit-data\current_tubf179707\lsi_cache
